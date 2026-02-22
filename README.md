@@ -1,5 +1,3 @@
-Here’s a **GitHub-professional README.md** — polished, recruiter-friendly, and ready to upload directly to GitHub.
-(It includes badges, structure, and sections recruiters expect.)
 
 # 🚀 Zepto Sales Data Analysis | Python Project
 

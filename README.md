@@ -165,8 +165,6 @@ Himanshu seth
 
 Aspiring Data Analyst | Python Enthusiast
 
-GitHub: [)
-
 ---
 
 ## ⭐ Support

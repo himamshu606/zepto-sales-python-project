@@ -147,7 +147,7 @@ jupyter notebook ZeptoSalesProject.ipynb
 ---
 
 ## 🖼️ Sample Visualizations
-```
+
 <img width="1200" height="964" alt="image" src="https://github.com/user-attachments/assets/7eb157ff-5984-4f9e-bc03-85aa7093de58" />
 
 
